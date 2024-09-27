@@ -27,3 +27,15 @@ math score
 reading score
 
 writing score
+
+
+# Tech Used
+![download](https://github.com/user-attachments/assets/18e9a6fb-c2e0-4fb7-bfd2-4c70893685b5)
+
+![download](https://github.com/user-attachments/assets/ac7fc584-ae5a-464d-8597-737d67836351)
+
+![download](https://github.com/user-attachments/assets/56b9cf67-e3c4-4e9d-a394-62eb0f66b196)
+
+![download](https://github.com/user-attachments/assets/e25cc735-9721-46ee-93f2-f26b270d2a51)
+
+
