@@ -12,21 +12,22 @@ The data consists of 8 column and 1000 rows.
 
 # 3) Dataset Information
 
-gender : sex of students -> (Male/female)
 
-race/ethnicity : ethnicity of students -> (Group A, B,C, D,E)
+* gender : sex of students -> (Male/female)
 
-parental level of education : parents' final education ->(bachelor's degree,some college,master's degree,associate's degree,high school)
+* race/ethnicity : ethnicity of students -> (Group A, B,C, D,E)
 
-lunch : having lunch before test (standard or free/reduced)
+* parental level of education : parents' final education ->(bachelor's degree,some college,master's degree,associate's degree,high school)
 
-test preparation course : complete or not complete before test
+* lunch : having lunch before test (standard or free/reduced)
 
-math score
+* test preparation course : complete or not complete before test
 
-reading score
+* math score
 
-writing score
+* reading score
+
+* writing score
 
 
 # Tech Used
