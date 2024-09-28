@@ -38,7 +38,7 @@ writing score
 
 # Insights / Observations from the dataset
 
--* From the description of numerical data,all means are very close to each other- between 66 and 69
+* From the description of numerical data,all means are very close to each other- between 66 and 69
 All the standard deviation are also close- between 14.6- 15.19
 While there is a minimum of 0 for maths,other are having 17 and 10 value
 
