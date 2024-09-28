@@ -39,22 +39,24 @@ writing score
 # Insights / Observations from the dataset
 
 * From the description of numerical data,all means are very close to each other- between 66 and 69
-All the standard deviation are also close- between 14.6- 15.19
-While there is a minimum of 0 for maths,other are having 17 and 10 value
+  
+* All the standard deviation are also close- between 14.6- 15.19
 
+* While there is a minimum of 0 for maths,other are having 17 and 10 value
 
-Female student tend to perform well than male students
+* Female student tend to perform well than male students
 
-Standard Lunch help students perform well in exams
-Standard lunch helps perform well in exams be it a male of female
+* Standard Lunch help students perform well in exams
 
+* Standard lunch helps perform well in exams be it a male of female
 
-In general parent's education don't help student perform well in exam.
-3rd plot shows that parent's whose education is of associate's degree or master's degree their male child tend to perform well in exam
-2nd plot we can see there is no effect of parent's education on female students.
+* In general parent's education don't help student perform well in exam.
+* Parent's whose education is of associate's degree or master's degree their male child tend to perform well in exam
+* We can see there is no effect of parent's education on female students.
 
-Students of group A and group B tends to perform poorly in exam.
-Students of group A and group B tends to perform poorly in exam irrespective of whether they are male or female
+* Students of group A and group B tends to perform poorly in exam.
+
+* Students of group A and group B tends to perform poorly in exam irrespective of whether they are male or female
 
 
 
