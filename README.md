@@ -1,5 +1,8 @@
 # Student-Performance-EDA
 
+![image](https://github.com/user-attachments/assets/c09da8ab-e182-405d-82bf-8a5d9c764d55)
+
+
 
 # 1) Problem statement
 This project understands how the student's performance (test scores) is affected by other variables such as Gender, Ethnicity, Parental level of education, Lunch and Test preparation course.
